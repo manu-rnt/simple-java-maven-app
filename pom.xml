@@ -24,7 +24,7 @@
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-compiler-plugin</artifactId>
-          <version>3.5.0</version> <!-- Actualizado a la versión 3.5.0 -->
+          <version>3.6.3</version> <!-- Actualizado a la versiÃ³n 3.6.3 -->
         </plugin>
       </plugins>
     </pluginManagement>
